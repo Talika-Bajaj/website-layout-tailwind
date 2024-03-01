@@ -1,2 +1,2 @@
 # website-layout-tailwind
-Website Layout using Tailwindcss
+My First Website Layout using Tailwindcss as a practice to learn Tailwindcss.
